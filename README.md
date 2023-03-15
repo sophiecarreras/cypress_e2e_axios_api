@@ -1,4 +1,4 @@
-# Cypress e2e + Axios api
+# Cypress e2e + Mocha api
 
 Unified framework for REST API service and web using Cypress, Mocha, Chai, and Axios.
 
